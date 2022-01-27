@@ -1,0 +1,5 @@
+﻿  c++_observer pattern.cpp
+  Subject.cpp
+C:\Users\dltng\Desktop\c++_observer pattern\c++_observer pattern\Subject.cpp(16,7): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  코드를 생성하고 있습니다...
+  c++_observer pattern.vcxproj -> C:\Users\dltng\Desktop\c++_observer pattern\Debug\c++_observer pattern.exe
